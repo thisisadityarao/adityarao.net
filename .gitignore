@@ -5,6 +5,9 @@
 # Ignore content collection generated files
 .astro
 
+### Node ###
+node_modules
+
 ### Linux ###
 *~
 
